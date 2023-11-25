@@ -30,7 +30,7 @@ def factor(num, largest_factor):
         print(f'prime = {largest_factor}')
         new_num = num // largest_factor
         factor(new_num, largest_factor)
-    elif num == largest_factor:
+    elif num <= largest_factor:
         print(f'largest prime = {largest_factor}')
     else:
         factor(num, largest_factor + 1)
