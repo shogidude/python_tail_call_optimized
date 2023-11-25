@@ -1,4 +1,4 @@
-# python_tail_call_optimized
+# Python @tail_call_optimized
 Fast infinite tail call recursion for python. 
 
 This decorator implementation was thrown together with the help of 
