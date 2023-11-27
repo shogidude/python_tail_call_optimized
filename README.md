@@ -9,4 +9,7 @@ didn't like the recursion limits of Python, so added the
 I know I'll want to use this in other projects, so I'm saving the
 example here for myself and anyone else who wants to use it.
 
+## Archived
 
+This repo is for reference, only. I don't expect to make any changes 
+to it. It is set to read-only.
